@@ -10,7 +10,7 @@ Infrastructure documentation for the RivectumRWA autonomous RWA allocation demo 
 |----------|-----|
 | Website | [rivectum.xyz](https://rivectum.xyz/) |
 | dApp | [app.rivectum.xyz](https://app.rivectum.xyz/) |
-| X / Twitter | [@rivectum](https://rivectum.xyz/) |
+| X / Twitter | [@rivectum](https://x.com/rivectum) |
 | GitHub | [rivectumRWA](https://github.com/rivectumRWA/) |
 
 ## Contents
