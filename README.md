@@ -20,7 +20,6 @@ Infrastructure documentation for the RivectumRWA autonomous RWA allocation demo 
 | [ARCHITECTURE.md](./ARCHITECTURE.md) | System architecture, data flow, component interaction |
 | [UI-APP.md](./UI-APP.md) | Dashboard UI overview — pages, components, routing |
 | [BACKEND.md](./BACKEND.md) | Backend overview — smart contracts, agent, CLI |
-| [DEPLOYMENT.md](./DEPLOYMENT.md) | VPS deployment, PM2 process management, Nginx reverse proxy |
 | [ENVIRONMENT.md](./ENVIRONMENT.md) | Environment variables reference across all modules |
 
 ## Project Modules
